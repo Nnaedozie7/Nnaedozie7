@@ -1,4 +1,4 @@
-# 👋 Uchedienyi
+# 👋 Nnaedozie
 
 ⚙️ Building intelligent systems for steel production
 
