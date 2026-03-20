@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Uchedienyi
 
-<!--
-**Nnaedozie7/Nnaedozie7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Building intelligent systems for steel production
 
-Here are some ideas to get you started:
+M.Sc. Materials Engineering @ RWTH Aachen 🇩🇪  
+Machine Learning • Process Optimization • Steel Industry  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Focus Areas
+Data-driven tools for metallurgical systems:
+- Electric Arc Furnace (EAF) optimization  
+- Off-gas energy recovery  
+- Circular economy solutions  
+
+---
+
+##  Projects
+- EAF Optimization Tool  
+- Off-Gas Recovery App  
+- ML Deployment API (Docker + Cloud)  
+
+---
+
+## 🛠️ Stack
+Python • Pandas • Scikit-learn • Streamlit • Docker  
+
+---
+
+## 🌍 Vision
+Smarter, energy-efficient, data-driven steel production.  
