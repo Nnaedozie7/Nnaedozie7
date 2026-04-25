@@ -3,14 +3,14 @@
 ⚙️ Building intelligent systems for steel production
 
 M.Sc. Materials Engineering @ RWTH Aachen 🇩🇪  
-Machine Learning • Process Optimization • Steel Industry  
+ Steel Industry • Machine Learning • Process Optimization  
 
 ---
 
 ##  Focus Areas
 Data-driven tools for metallurgical systems:
-- Electric Arc Furnace (EAF) optimization  
-- Off-gas energy recovery  
+- Furnace optimization  
+- Steel Production Machines Optimization 
 - Circular economy solutions  
 
 ---
