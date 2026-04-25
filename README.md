@@ -10,20 +10,22 @@ M.Sc. Materials Engineering @ RWTH Aachen 🇩🇪
 ##  Focus Areas
 Data-driven tools for metallurgical systems:
 - Furnace optimization  
-- Steel Production Machines Optimization 
+- Steel Production Process Optimization 
 - Circular economy solutions  
 
 ---
 
 ##  Projects
-- EAF Optimization Tool  
-- Off-Gas Recovery App  
-- ML Deployment API (Docker + Cloud)  
+- EAF Digital Twin
+- EAF Energy Optimization
+- EAF Off-Gas Energy Recovery Estimator
+- EAF Slag Utilization Decision Tool
+- EAF Dust-Zinc Recovery Estimator  
 
 ---
 
 ## 🛠️ Stack
-Python • Pandas • Scikit-learn • Streamlit • Docker  
+Python • Pandas • Scikit-learn • Streamlit • FastAPI 
 
 ---
 
