@@ -1,18 +1,24 @@
 # 👋 Nnaedozie
 
-⚙️ Building intelligent systems for steel production
+⚙️ Building intelligent, data driven solutions for real world engineering and industrial systems
 
 M.Sc. Materials Engineering @ RWTH Aachen 🇩🇪  
- Steel Industry • Machine Learning • Process Optimization  
+ Machine Learning • Data Science • Process Optimization • Software Development 
 
 ---
 
 ##  Focus Areas
-Data-driven tools for metallurgical systems:
-- Furnace optimization  
-- Steel Production Process Optimization 
-- Circular economy solutions  
+I develop data driven solutions that improve decision making, efficiency, and sustainability across engineering and industrial applications.
 
+Areas of interest include:
+
+- Machine Learning & Predictive Analytics
+- Data Analysis & Visualization
+- Process Optimization
+- Industrial AI & Intelligent Systems
+- Digital Twins
+- Decision Support Systems
+- Sustainability & Circular Economy
 ---
 
 ##  Projects
@@ -28,6 +34,3 @@ Data-driven tools for metallurgical systems:
 Python • Pandas • Scikit-learn • Streamlit • FastAPI 
 
 ---
-
-## 🌍 Vision
-Smarter, energy-efficient, data-driven steel production.  
